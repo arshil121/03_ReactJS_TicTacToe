@@ -1,0 +1,4 @@
+.winning {
+  background-color: yellow; /* Change the background color to highlight winning squares */
+  font-weight: bold; /* Make the text bold for emphasis */
+}
